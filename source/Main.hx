@@ -1,6 +1,6 @@
 package;
 
-import sphis.poan.GameState;
+import sphis.poan.InitState;
 import flixel.FlxGame;
 import openfl.display.Sprite;
 
