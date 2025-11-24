@@ -1,8 +1,8 @@
-package;
+package sphis.poan;
 
 import flixel.FlxState;
 
-class PlayState extends FlxState
+class InitState extends FlxState
 {
 	override public function create()
 	{
